@@ -140,4 +140,3 @@ def play_uno(numPlayers):
         currentPlayerNum = (currentPlayerNum + 1) % numPlayers
 
 
-play_uno(2)
